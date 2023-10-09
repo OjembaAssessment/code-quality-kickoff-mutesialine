@@ -10,6 +10,7 @@ export default function cntRbt(ls) {
   for (var i = 0; i < ls.length; i++) {
     if (ls[i] == "R") {
       cnt++;
+      //test
     }
   }
   return cnt;
